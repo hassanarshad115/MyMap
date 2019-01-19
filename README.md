@@ -160,7 +160,7 @@ Initial Release
 Author
 Hassanarshad.bwn@gmail.com
 License
-Copyright 2016 Ashik Vetrivelu
+Copyright 2016 Hassan Arshad
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.

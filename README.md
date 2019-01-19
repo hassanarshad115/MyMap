@@ -15,18 +15,7 @@ https://www.youtube.com/watch?v=LEz6F04vRTQ&feature=youtu.be
 
 ---------------------------------------------------------
 Magic Button
-alt tag
 
-What is Magic Button?
-It's a new button in android that hypnotizes the user and make him give you a lot of money!!! 
-Ok, just kidding, this is not so magic yet... but it's a cute button. 
-
-
-
-alt tag 
-
-Ok it's cute, But how can I use
-You just need to add this in your layout.
 
 <br.com.bloder.magic.view.MagicButton
         android:id="@+id/magic_button"
@@ -41,6 +30,7 @@ You just need to add this in your layout.
         app:hide_text_color="@android:color/black"
         app:icon_button_color="button_icon_color"
         app:expandable_area_color="that_expandable_button_part_color"/>
+        
 How about click event?
 In magic button, the click event will work only in second click and you can set this event with:
 

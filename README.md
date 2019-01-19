@@ -82,12 +82,7 @@ SOFTWARE.
 Elegant Number Button
 A simple Android library to implement a number counter with increment and decrement buttons.
 
-    Android Arsenal
-
-Screens
-Screen 1
-
-Screen 1
+ 
 
 Download
 Grab the latest version on gradle using
@@ -163,7 +158,7 @@ Changed attribute from initialText to initialNumber
 Version 1.0
 Initial Release
 Author
-Ashik Vetrivelu - vcashik@gmail.com
+Hassanarshad.bwn@gmail.com
 License
 Copyright 2016 Ashik Vetrivelu
 
